@@ -1,0 +1,6 @@
+{
+  "name": "SinapseMed",
+  "description": "Plataforma de aprendizado médico inteligente e tutor 3D interativo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
